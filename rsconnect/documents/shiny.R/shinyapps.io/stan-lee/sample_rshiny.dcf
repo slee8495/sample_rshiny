@@ -1,0 +1,12 @@
+name: sample_rshiny
+title: sample_rshiny
+username: stan-lee
+account: stan-lee
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10996655
+bundleId: 8172311
+url: https://sangho-lee.shinyapps.io/sample_rshiny/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
